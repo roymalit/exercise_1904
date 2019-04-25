@@ -41,6 +41,12 @@ To run the tests run the command
     
 Feel free to use any libraries that you want to help you by adding them to the [package.json](https://github.com/timt/exercise_1904/blob/master/package.json) file
 
+Useful Links
+===
+* [Javascript Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+* [JavaScript Get Date Methods](https://www.w3schools.com/js/js_date_methods.asp)
+
+
 On Completion
 ===
 To have completed code reviewed please send me the url to your fork of this repository that contains the completed project.
