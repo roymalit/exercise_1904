@@ -25,13 +25,13 @@ Setup
 * Clone your fork of the repository to work on it locally
 * Run yarn (or npm install) in the project directory to install/configure the project
 * Implement the `format` method in the file [dateFormatter.js](https://github.com/timt/exercise_1904/blob/master/src/dateFormatter.js)
-* Push you completed work back to your github fork
-* Send me the url for the github fork where you completed work is.
+* Push your completed work back to your github fork
+* Send me the url for the github fork where your completed work is.
 
 Other Info
 ====
 
-A test case has been provide that will help guide you. This is in the file [dateFormatterTest.js](https://github.com/timt/exercise_1904/blob/master/__tests__/dateFormatterTest.js)
+A test case has been provided that will help guide you. This is in the file [dateFormatterTest.js](https://github.com/timt/exercise_1904/blob/master/__tests__/dateFormatterTest.js)
 
 You can add more tests to help you.
 
