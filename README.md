@@ -49,4 +49,4 @@ Useful Links
 
 On Completion
 ===
-To have completed code reviewed please send me the url to your fork of this repository that contains the completed project.
+To have completed code reviewed please send me the url to your fork of this repository that contains your completed code.
