@@ -10,6 +10,8 @@
   },
   "devDependencies": {
     "babel-jest": "^24.1.0",
-    "jest": "^24.1.0"
-  }
+    "jest": "^24.7.1"
+  },
+  "main": "index.js",
+  "license": "MIT"
 }
